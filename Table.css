@@ -1,0 +1,68 @@
+*{
+    margin:2px;
+    box-sizing: border-box;
+    padding:2px;
+   
+}
+body{
+    background-color: beige;
+    
+}
+
+.TableContainer .TableHead .TableCell{
+   border:1px solid grey;
+   color:blue;
+   padding:3px 35px;
+   font-size: larger;
+   text-align: center;
+}
+table tr:nth-child(even){
+    background-color:rgb(178, 199, 199);
+}
+
+h1{
+    text-align:center;
+    color:purple;
+}
+table th{
+    color:black;
+    text-align:center;
+   
+}
+table{
+    border-collapse: collapse;
+   margin-top: 20px;
+ 
+   
+}
+.tableWrap{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+input{
+    padding:5px;
+    margin-right: 5px;
+}
+.addForm button{
+    width:120px;
+    padding:5px;
+   border-radius:30px;
+   
+}
+.addForm button:hover{
+    background-color: orange;
+    cursor: pointer;
+    color:white;
+}
+.tableWrap tr:hover{
+    background-color:grey;
+}
+.tableWrap th{
+    background-color: black;
+    color:white;
+   
+}
+

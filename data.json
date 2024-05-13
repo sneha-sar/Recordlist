@@ -1,0 +1,39 @@
+
+[
+    {
+        "id":1,
+        "name":"Sneha",
+        "email":"andhares17@gmail.com",
+        "phone":"1234567896"
+    },
+
+    {
+        "id":2,
+        "name":"Bhumi",
+        "email":"bhumi17@gmail.com",
+        "phone":"1234567896"
+    },
+
+    {
+        "id":3,
+        "name":"Anita",
+        "email":"anita@gmail.com",
+        "phone":"1234567896"
+    },
+
+    {
+        "id":4,
+        "name":"Anushka",
+        "email":"anushka2@gmail.com",
+        "phone":"1234567896"
+    },
+
+    {
+        "id":5,
+        "name":"Reshma",
+        "email":"reshma17@gmail.com",
+        "phone":"1234567896"
+    }
+]
+
+    
